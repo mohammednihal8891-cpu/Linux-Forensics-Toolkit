@@ -1,0 +1,17 @@
+[
+    {
+        "file": "/home/kali/linux-forensics-toolkit/samples/notes.txt",
+        "modified_time": "2026-10-10T06:49:13+05:30",
+        "size_bytes": 21
+    },
+    {
+        "file": "/home/kali/linux-forensics-toolkit/samples/test.txt",
+        "modified_time": "2026-10-10T08:11:55+05:30",
+        "size_bytes": 37
+    },
+    {
+        "file": "/home/kali/linux-forensics-toolkit/samples/demo.log",
+        "modified_time": "2026-10-10T08:16:45+05:30",
+        "size_bytes": 147
+    }
+]

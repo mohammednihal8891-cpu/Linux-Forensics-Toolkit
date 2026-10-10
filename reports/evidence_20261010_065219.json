@@ -1,0 +1,23 @@
+{
+    "investigation_time": "2026-10-10T06:52:19.681674+05:30",
+    "source_folder": "samples",
+    "total_files": 2,
+    "files": [
+        {
+            "file_name": "notes.txt",
+            "path": "/home/kali/linux-forensics-toolkit/samples/notes.txt",
+            "size_bytes": 21,
+            "file_type": "text/plain",
+            "modified_time": "2026-10-10T06:49:13",
+            "sha256": "fc0f65b699d7828473d95162c23088488fd59b90927cfdd9657b371c3c45fd07"
+        },
+        {
+            "file_name": "test.txt",
+            "path": "/home/kali/linux-forensics-toolkit/samples/test.txt",
+            "size_bytes": 20,
+            "file_type": "text/plain",
+            "modified_time": "2026-10-10T06:49:13",
+            "sha256": "da8b7eda714738e35bc5df83be5884da7539da9bb09abba2a1e0c4df621360e8"
+        }
+    ]
+}

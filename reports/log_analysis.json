@@ -1,0 +1,29 @@
+{
+    "analysis_time": "2026-10-10T08:23:04.195257+05:30",
+    "log_file": "/home/kali/linux-forensics-toolkit/samples/demo.log",
+    "total_findings": 3,
+    "findings": [
+        {
+            "line_number": 2,
+            "keywords": [
+                "warning"
+            ],
+            "log_entry": "WARNING: Multiple login attempts detected"
+        },
+        {
+            "line_number": 3,
+            "keywords": [
+                "failed",
+                "error"
+            ],
+            "log_entry": "ERROR: Test service failed"
+        },
+        {
+            "line_number": 5,
+            "keywords": [
+                "invalid"
+            ],
+            "log_entry": "AUTH: Invalid login for demo user"
+        }
+    ]
+}

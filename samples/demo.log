@@ -1,0 +1,5 @@
+INFO: System started
+WARNING: Multiple login attempts detected
+ERROR: Test service failed
+INFO: Backup completed
+AUTH: Invalid login for demo user
